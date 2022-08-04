@@ -1,0 +1,18 @@
+{
+  "name": "dragonscript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nfteyez/sol-rayz": "^0.10.2",
+    "axios": "^0.27.2",
+    "csv-write-stream": "^2.0.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.0"
+  }
+}
